@@ -1,0 +1,5 @@
+# serialtermEMU
+Serial terminal emulator on a pi pico - communicating over VGA 
+
+
+- [ ] Understand how CMake works and use this opp to build a basic project from - https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html
